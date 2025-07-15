@@ -4,8 +4,8 @@
 
 A histogram of the credit scores reveals a fairly continuous distribution from low-risk to high-risk users.
 
-- **Mean Score**: ~490
-- **Median Score**: ~480
+- **Mean Score**: 490
+- **Median Score**: 480
 - **Min Score**: 0
 - **Max Score**: 1000
 
