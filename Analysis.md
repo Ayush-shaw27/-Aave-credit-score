@@ -36,7 +36,7 @@ Wallets are assigned scores using a linear transformation of the model's predict
 ## Visualizations
 
 ### Histogram
-![Histogram](Screenshot 2025-07-15 174921.png)
+![Histogram]([Screenshot 2025-07-15 174921.png](https://github.com/Ayush-shaw27/-Aave-credit-score/blob/main/Screenshot%202025-07-15%20174921.png))
 
 - Shows smooth score distribution.
 - Red line = Mean, Green line = Median.
