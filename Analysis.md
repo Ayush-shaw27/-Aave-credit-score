@@ -17,11 +17,11 @@ Wallets are assigned scores using a linear transformation of the model's predict
 
 | Score Range | Description                              | Behavior Pattern                                        |
 |-------------|------------------------------------------|----------------------------------------------------------|
-| 0–200       | 🚩 Very risky                             | Frequent liquidations, high borrowing, low repayment     |
-| 201–400     | ⚠️ Caution advised                        | More borrowing than repaying, little deposit activity     |
-| 401–600     | 🟡 Average / Neutral                      | Balanced usage, some repayment, moderate activity        |
-| 601–800     | ✅ Trusted                                | Strong deposit behavior, low risk of default             |
-| 801–1000    | 🟢 Highly reliable                        | Consistent depositor, full repayment, no liquidations    |
+| 0–200       |  Very risky                             | Frequent liquidations, high borrowing, low repayment     |
+| 201–400     |  Caution advised                        | More borrowing than repaying, little deposit activity     |
+| 401–600     |  Average / Neutral                      | Balanced usage, some repayment, moderate activity        |
+| 601–800     |  Trusted                                | Strong deposit behavior, low risk of default             |
+| 801–1000    |  Highly reliable                        | Consistent depositor, full repayment, no liquidations    |
 
 ---
 
@@ -36,7 +36,7 @@ Wallets are assigned scores using a linear transformation of the model's predict
 ## Visualizations
 
 ### Histogram
-![Histogram](path/to/histogram.png)
+![Histogram](Screenshot 2025-07-15 174921.png)
 
 - Shows smooth score distribution.
 - Red line = Mean, Green line = Median.
