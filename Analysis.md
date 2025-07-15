@@ -36,8 +36,7 @@ Wallets are assigned scores using a linear transformation of the model's predict
 ## Visualizations
 
 ### Histogram
-![Histogram](<img width="1344" height="659" alt="Screenshot 2025-07-15 174921" src="https://github.com/user-attachments/assets/8e438d41-5b44-450d-997a-a3c3d864a9a5" />
-)
+![Histogram]()
 
 - Shows smooth score distribution.
 - Red line = Mean, Green line = Median.
